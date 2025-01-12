@@ -1,3 +1,4 @@
+https://github.com/AkanshaPandey03/AkanshaPandey03/blob/main/AKS.png?raw=true
 # Hi, I'm Akansha Pandey! 👋
 
 ## About Me  
