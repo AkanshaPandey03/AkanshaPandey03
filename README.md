@@ -17,7 +17,7 @@
 - 📈 **Power BI**: Interactive visualizations  
 
 ## My Work  
-🔗 [Sales Dashboard](https://github.com/AkanshaPandey03/Sales-Dashboard)  
+🔗 [Sales Dashboard](https://github.com/AkanshaPandey03/Sales-Analysis-Dashboard/blob/main/Sales%20Analysis%20Dashboard.png?raw=true)  
 🔗 [Customer Segmentation](https://github.com/YourUsername/Customer-Segmentation)
 
 ## Connect with Me  
