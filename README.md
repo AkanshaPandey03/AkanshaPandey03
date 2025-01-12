@@ -1,4 +1,4 @@
-![Banner](https://example.com/banner-image.png)
+![Banner](https://github.com/AkanshaPandey03/AkanshaPandey03/blob/main/AKS.png?raw=true)
 
 # Hi, I'm Akansha Pandey! 👋
 
