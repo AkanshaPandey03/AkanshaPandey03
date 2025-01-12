@@ -1,3 +1,5 @@
+![Banner](https://example.com/banner-image.png)
+
 # Hi, I'm Akansha Pandey! 👋
 
 ## About Me  
